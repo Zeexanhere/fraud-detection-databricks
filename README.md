@@ -125,7 +125,7 @@ Project_2_Fraud_Detection/
 ### Step 1 — Clone This Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fraud-detection-databricks.git
+git clone https://github.com/Zeexanhere/fraud-detection-databricks.git
 ```
 
 ---

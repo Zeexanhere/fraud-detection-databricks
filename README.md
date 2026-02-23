@@ -243,14 +243,3 @@ This project was built specifically to work around Databricks Community Edition 
 **Zeeshan Ahmed**
 - Built during Week 2 of structured Databricks learning
 - Platform: Databricks Community Edition (Free Tier)
-- Week 1 Project: [End-to-End Sales Analytics Pipeline](https://github.com/YOUR_USERNAME/databricks-sales-pipeline)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-> 💡 **Tip for Recruiters:** Every error encountered during this project (DBFS disabled, Unity Catalog missing, Spark ML Vector extraction, MLflow artifact restrictions) was debugged and solved — demonstrating real production troubleshooting skills, not just tutorial-following.

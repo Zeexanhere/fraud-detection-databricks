@@ -243,3 +243,6 @@ This project was built specifically to work around Databricks Community Edition 
 **Zeeshan Ahmed**
 - Built during Week 2 of structured Databricks learning
 - Platform: Databricks Community Edition (Free Tier)
+ 
+## 📄 License
+This project is open source and available under the MIT License.
